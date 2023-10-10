@@ -1,4 +1,4 @@
-//PIOTR ROZCZKA HELPED WITH CODE
+//PIOTR ROZCZKA CODE
 import http from 'http'
 import {readFile, writeFile} from 'fs/promises'
 const port = 3000;
