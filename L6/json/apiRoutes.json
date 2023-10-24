@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/api",
+    "description": "Responds with list of available api routes in json format."
+  },
+  {
+    "path": "/api/students",
+    "description": "Responds with list of students in json format.",
+    "structure": {"id": "number", "name": "string", "surname": "string", "email": "string"}
+  },
+  {
+    "path": "/api/students/:id",
+    "description": "Responds with student object by id or 404 if not found in json format.",
+    "structure": {"id": "number", "name": "string", "surname": "string", "email": "string"}
+  },
+  {
+    "path": "/api/subjects",
+    "description": "Responds with list of school subjects in json format.",
+    "structure": {"id": "number", "name": "string", "hoursAWeek": "number"}
+  },
+  {
+    "path": "/api/subjects/:id",
+    "description": "Responds with subject object by id or 404 if not found in json format.",
+    "structure": {"id": "number", "name": "string", "hoursAWeek": "number"}
+  }
+]
