@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Matematyka", "hoursAWeek": 5 },
+  { "id": 2, "name": "Fizyka", "hoursAWeek": 1 },
+  { "id": 3, "name": "Chemia", "hoursAWeek": 1 },
+  { "id": 4, "name": "Historia", "hoursAWeek": 1 },
+  { "id": 5, "name": "Język angielski", "hoursAWeek": 3 },
+  { "id": 6, "name": "Biologia", "hoursAWeek": 1 },
+  { "id": 7, "name": "Informatyka", "hoursAWeek": 2 },
+  { "id": 8, "name": "Geografia", "hoursAWeek": 1 },
+  { "id": 9, "name": "Wychowanie fizyczne", "hoursAWeek": 3 },
+  { "id": 10, "name": "Programowanie aplikacji webowych", "hoursAWeek": 2 },
+  { "id": 11, "name": "Pracownia aplikacji webowych", "hoursAWeek": 2 },
+  { "id": 12, "name": "Religia", "hoursAWeek": 1 },
+  { "id": 13, "name": "Wiedza o społeczeństwie", "hoursAWeek": 1 },
+  { "id": 14, "name": "Pracownia testowania i dokumentowania aplikacji", "hoursAWeek": 1 },
+  { "id": 15, "name": "Testowanie i dokumentowanie aplikacji", "hoursAWeek": 1 }
+]
