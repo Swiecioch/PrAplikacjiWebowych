@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.textarea-label{
+    display: flex;
+}
+form > button{
+    width: 100px;
+}
